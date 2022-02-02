@@ -15,5 +15,5 @@ The market data are in the below format:
 
 **Flow Chart of the Algorithm Logic**
 
-![](images/MMFlow.jpeg)
+![](MMFlow.jpeg)
 
