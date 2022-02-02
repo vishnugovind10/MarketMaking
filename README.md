@@ -1,4 +1,4 @@
-Market Making in Python
+**Market Making in Python**
 
 A simple market making algorithm. The algorithm does the following:
 
