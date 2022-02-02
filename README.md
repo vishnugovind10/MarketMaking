@@ -14,3 +14,6 @@ The market data are in the below format:
 2)  All trades on that same market over the same period, in CSV
 
 **Flow Chart of the Algorithm Logic**
+
+![](images/MMFlow.jpeg)
+
