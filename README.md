@@ -1,8 +1,8 @@
 # **Market Making in Python**
 
-The Algorithm is desdigned to provide liquidity for crypto tokens and designed to a be standalone alogorithm withm minimal support from the traders once it is deployed.
+This is a market neutral algorithm desdigned to provide liquidity for crypto tokens.
 
-A simple market making algorithm. The algorithm does the following:
+A simple market making algorithm which does the following:
 
 1)   Providing quotes around a predictive fair value.
 
