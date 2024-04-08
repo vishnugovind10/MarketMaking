@@ -3,6 +3,10 @@
 ### Overview
 This repository contains an advanced crypto market-making trading algorithm that focuses on the "IOTA/BTC" trading pair on the Binance exchange. The algorithm is designed to leverage market-making strategies to profit from bid-ask spreads while effectively managing risks arising from price fluctuations and inventory changes.
 
+
+![Flow Chart](https://github.com/vishnugovind10/MarketMaking/blob/main/Logic%20MM.jpg)
+
+
 ### Algorithm Highlights
 - Dynamic Initial Balance Calculation: The algorithm queries exchange APIs to determine the initial account balance, forming a reliable baseline for P&L calculations.
 - Advanced Order Book Analysis: Accurate market-making decisions are informed by in-depth order book analysis, optimizing bid and ask prices for optimal trade execution.
